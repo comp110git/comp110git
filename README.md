@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @comp110git
 - 👀 I’m interested in teaching `git`
+- 🌱 I’m currently learning: `git`
 <!---- 🌱 I’m currently learning ...
 
 - 💞️ I’m looking to collaborate on ...
